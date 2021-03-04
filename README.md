@@ -38,25 +38,22 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 2.	python3 run.py - to train the model.
 3.	python3 infer.py - to test and generate the mask.
 
-## Pytorch implementation of ResUNet++ can be found here : 
-https://github.com/rishikksh20/ResUnet/blob/master/core/res_unet_plus.py
 
 
 ## Results
- Qualitative results comparison on the Kvasir-SEG dataset.From the left: image (1), (2) Ground truth, (3) U-Net, (4)
-ResUNet, (5) ResUNet-mod, and (6) ResUNet++. <br/>
-<img src="results.png">
+
+<img src="qualitative_results.png">
 
 
 ## Citation
 Please cite our paper if you find the work useful: 
 <pre>
-@INPROCEEDINGS{8959021,
-  author={D. {Jha} and P. H. {Smedsrud} and M. A. {Riegler} and D. {Johansen} and T. D. {Lange} and P. {Halvorsen} and H. {D. Johansen}},
-  booktitle={2019 IEEE International Symposium on Multimedia (ISM)}, 
-  title={ResUNet++: An Advanced Architecture for Medical Image Segmentation}, 
-  year={2019},
-  pages={225-230}}
+@article{jha2020real,
+  title={Real-Time Polyp Detection, Localisation and Segmentation in Colonoscopy Using Deep Learning},
+  author={Jha, Debesh and Ali, Sharib and Johansen, H{\aa}vard D and Johansen, Dag D and Rittscher, Jens and Riegler, Michael A and Halvorsen, P{\aa}l},
+  journal={IEEE Access},
+  year={2021}
+}
 </pre>
 
 ## Contact
