@@ -7,7 +7,7 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 [Real-Time Polyp Detection, Localisation and Segmentation in Colonoscopy Using Deep Learning](https://arxiv.org/pdf/2011.07631.pdf).
 
 ## Architecture
-<img src="ColonSegNet.png">
+<img src="ColonSegNet.png" align="center">
 
 ## Requirements:
 	os
