@@ -24,8 +24,8 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 <img src="figures/detection.png">
 <img src="figures/detection_results.png">
 
-<img src="segmentation_results.png">
-<img src="qualitativesegmentation.pdf">
+<img src="figures/segmentation_results.png">
+<img src="figures/qualitativesegmentation.pdf">
 
 ## Citation
 Please cite our paper if you find the work useful: 
