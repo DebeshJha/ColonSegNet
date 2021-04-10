@@ -1,4 +1,4 @@
-# Real-Time Polyp Detection, Localisation and Segmentation in Colonoscopy Using Deep Learning
+# Real-Time Polyp Detection, Localization and Segmentation in Colonoscopy Using Deep Learning
 # ColonSegNet
 
 
