@@ -9,16 +9,6 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 ## Architecture
 <img src="ColonSegNet.png" align="center">
 
-## Requirements:
-	os
-	numpy
-	cv2
-	tensorflow
-	glob
-	tqdm
-
-
-
 ## Results
 
 <img src="figures/detection.png">
