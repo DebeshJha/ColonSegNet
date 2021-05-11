@@ -9,6 +9,9 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 ## Architecture
 <img src="ColonSegNet.png" align="center">
 
+## Scripts for bounding boxes
+[https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters](https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters)
+
 ## Results
 
 <img src="figures/detection.png">
