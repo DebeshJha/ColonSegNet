@@ -55,10 +55,6 @@ if __name__ == "__main__":
     path = "/../../Kvasir-SEG/"
     (train_x, train_y), (test_x, test_y) = load_data(path)
 
-    # """ CVC-ClinicDB """
-    # test_x = sorted(glob("/media/nikhil/ML/ml_dataset/CVC-612/images/*"))
-    # test_y = sorted(glob("/media/nikhil/ML/ml_dataset/CVC-612/masks/*"))
-
     """ Hyperparameters """
     size = (512, 512)
     checkpoint_path = "files/checkpoint.pth"
