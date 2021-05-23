@@ -52,7 +52,7 @@ if __name__ == "__main__":
     create_dir("results")
 
     """ Load dataset """
-    path = "/media/nikhil/ML/ml_dataset/Kvasir-SEG/"
+    path = "/../../Kvasir-SEG/"
     (train_x, train_y), (test_x, test_y) = load_data(path)
 
     # """ CVC-ClinicDB """
