@@ -35,4 +35,4 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-Please contact debesh@simula.no for any further questions.
+Please contact debesh@simula.no, sharib.ali@eng.ox.ac.uk and nikhilroxtomar@gmail.com for any further questions.
