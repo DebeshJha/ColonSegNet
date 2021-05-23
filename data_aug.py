@@ -158,8 +158,7 @@ def augment_data(images, masks, save_path, augment=True):
 def main():
     np.random.seed(42)
 
-    path = "/home/nikhilroxtomar/lab/DATA/Kvasir-SEG/"
-    # path = "/media/nikhil/ML/ml_dataset/Kvasir-SEG/"
+    path = "/../../Kvasir-SEG/"
     (train_x, train_y), (test_x, test_y) = load_data(path)
 
     print("Train: ", len(train_x))
