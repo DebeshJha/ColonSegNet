@@ -73,8 +73,7 @@ if __name__ == "__main__":
     # valid_x = sorted(glob("new_data/test/image/*"))
     # valid_y = sorted(glob("new_data/test/mask/*"))
 
-    path = "/media/nikhil/ML/ml_dataset/Kvasir-SEG/"
-    # path = "/home/nikhilroxtomar/lab/DATA/Kvasir-SEG/"
+    path = "/../../Kvasir-SEG/"
     (train_x, train_y), (valid_x, valid_y) = load_data(path)
 
     train_x, train_y = shuffling(train_x, train_y)
