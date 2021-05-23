@@ -30,8 +30,7 @@ Please cite our paper if you find the work useful:
   journal={Ieee Access},
   volume={9},
   pages={40496--40510},
-  year={2021},
-  publisher={IEEE}
+  year={2021}
 }
 </pre>
 
