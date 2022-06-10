@@ -11,9 +11,9 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 
 ## How to run
 You can run the files in the following sequences:
-1. data_aug.py - Change the dataset path. This would create a new_data folder containing augmented data
+1. data_aug.py - Change the dataset path. This will create a new_data folder containing augmented data.
 2. train.py - If you want to use augmented data from the new_data folder then uncomment the lines from 70-74 and comment the lines 76 and 77.
-3. test.py - Set the proper path for the dataset in line number 55 and run the code. This would give you scores of different evaluation metrics and also the masks would also save the results folder.
+3. test.py - Set the proper path for the dataset in line number 55 and run the code. This will provide the scores of different evaluation metrics as well as masks which are saved in the "results" folder.
 
 ## Dataset:
 You can download the Kvasir-SEG from here: [https://datasets.simula.no/downloads/kvasir-seg.zip](https://datasets.simula.no/downloads/kvasir-seg.zip)
