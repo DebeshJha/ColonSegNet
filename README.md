@@ -19,6 +19,7 @@ Please run the files in the following sequence:
 You can download the Kvasir-SEG from here: [https://datasets.simula.no/downloads/kvasir-seg.zip](https://datasets.simula.no/downloads/kvasir-seg.zip)
 
 ## Scripts for bounding boxes
+# Note: ColonSegNet is not an end to end network for polyp detection. Basically, it is a segmentation network. We have converted the ground truth masks into bounding boxes. The link for the script can be found below: 
 [https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters](https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters)
 
 ## Results
