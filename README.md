@@ -22,6 +22,10 @@ You can download the Kvasir-SEG from here: [https://datasets.simula.no/downloads
 ### Note: ColonSegNet is not an end to end network for polyp detection. Basically, it is a segmentation network. We have converted the ground truth masks into bounding boxes. The link for the script can be found below: 
 [https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters](https://github.com/sharibox/EAD2019/tree/master/fileFormatConverters)
 
+
+### TensorFlow implementation of ColonSegNet
+[https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/colonsegnet.py](https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/colonsegnet.py)
+
 ## Results
 
 <img src="figures/detection.png">
@@ -45,4 +49,4 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-Please contact debesh@simula.no, sharib.ali@eng.ox.ac.uk and nikhilroxtomar@gmail.com for any further questions.
+Please contact debesh@simula.no and nikhilroxtomar@gmail.com for any further questions.
