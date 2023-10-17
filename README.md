@@ -7,7 +7,9 @@ ColonSegNet is an encoder-decoder that uses residual block with squeeze and exci
 [Real-Time Polyp Detection, Localization and Segmentation in Colonoscopy Using Deep Learning](access.pdf).
 
 ## Architecture
+<p align="center">
 <img src="ColonSegNet.png" align="center">
+</p>
 
 ## How to run
 Please run the files in the following sequence:
@@ -27,13 +29,13 @@ You can download the Kvasir-SEG from here: [https://datasets.simula.no/downloads
 [https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/colonsegnet.py](https://github.com/nikhilroxtomar/Semantic-Segmentation-Architecture/blob/main/TensorFlow/colonsegnet.py)
 
 ## Results
-
+<p align="center">
 <img src="figures/detection.png">
 <img src="figures/detection_results.png">
 
 <img src="figures/qualitative_for_segementation.png">
 <img src="figures/segmentation_results.png">
-
+</p>
 
 ## Citation
 Please cite our paper if you find the work useful: 
@@ -49,4 +51,4 @@ Please cite our paper if you find the work useful:
 </pre>
 
 ## Contact
-Please contact debesh@simula.no and nikhilroxtomar@gmail.com for any further questions.
+Please contact debesh.jha@northwestern.edu and nikhilroxtomar@gmail.com for any further questions.
